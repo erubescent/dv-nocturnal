@@ -1,5 +1,5 @@
 # DeviantArt [nocturnal css edits]
-> updated dark theme for deviantart. originally created by [chloe chantelle].
+> updated dark theme for deviantart. originally created by [chloe chantelle]. 🎨
 
 [chloe chantelle]: http://chloechantelle.com/
 
@@ -9,7 +9,7 @@ Assuming you already have Stylish installed, go ahead and [install the original 
 [install the original theme]: https://userstyles.org/styles/126711/nocturnal-deviantart-theme
 
 ## Import
-> NOTE: the original theme is quite large so we'll be using an older extension for Chrome to overide the CSS.
+> ⚠️ NOTE: the original theme is quite large so we'll be using an older extension for Chrome to overide the CSS.
 
 Install [Stylebot] from the Chrome Web Store.
 
