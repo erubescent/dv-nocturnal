@@ -20,7 +20,7 @@ Install [Stylebot] from the Chrome Web Store.
 
 [json/import.json](json/import.json)
 
-```js
+```json
 {
     "deviantart.com": {
         "_enabled": true,
