@@ -1,5 +1,5 @@
 # DeviantArt [nocturnal css edits]
-> updated dark theme for deviantart. originally created by [chloe chantelle] (@chloechantelle).
+> updated dark theme for deviantart. originally created by [chloe chantelle].
 
 [chloe chantelle]: http://chloechantelle.com/
 
@@ -20,7 +20,7 @@ Install [Stylebot] from the Chrome Web Store.
 
 [json/import.json](json/import.json)
 
-```json
+```js
 {
     "deviantart.com": {
         "_enabled": true,
