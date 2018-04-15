@@ -18,7 +18,7 @@ Install [Stylebot] from the Chrome Web Store.
 <details>
 <summary>Afterwards, open the <a href="chrome-extension://oiaejidbmkiecgbjeifoejpgmdaleoha/options/index.html" target="_blank">extention's settings page</a>, and import the following JSON in the backup tab:</summary>
 
-[json/import.json](json/import.json)
+[json/import.json](json/import.json
 
 ```json
 {
@@ -118,7 +118,7 @@ Install [Stylebot] from the Chrome Web Store.
 </details>
 
 ## Screenshot
-Although these edits mainly reflect the [watch page], here's what my profile page looks like:
+Although these edits mainly reflect the [watch page], here's what my profile looks like:
 
 ![sc](preview/chrome_2018-04-14_22-17-58.png)
 
